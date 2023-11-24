@@ -1,0 +1,4 @@
+Langkah-langkah dalam membuat analisis:
+1. Simpan dataset di github
+2. Gunakan Google colab untuk membuat analisis
+3. Membuat dashboard dengan streamlit
